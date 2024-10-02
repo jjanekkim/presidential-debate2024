@@ -49,7 +49,7 @@ During the analysis, I discovered some interesting findings about each candidate
 
 
 ## Data Source
-Data was from the abc news [link]([https://github.com](https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542)).
+Data was from the abc news [link](https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542)
 
 ## Dependencies
 This project is created with:
